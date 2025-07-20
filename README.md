@@ -4,11 +4,8 @@
 
 # <div align="center">👋 Hi, I'm Shivprasad Mane</div>
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Java+%26+Spring+Boot+Expert+☕;React.js+%26+Next.js+Enthusiast+⚛️;Open+Source+Contributor+🌟;Problem+Solver+%26+Innovator+🚀" alt="Typing SVG" />
-  
-</div>
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivMane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -34,17 +31,23 @@
 
 ## 🚀 About Me
 
-```javascript
-const shivprasad = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    currentFocus: ["Spring Boot", "React.js", "System Design"],
-    learning: ["Microservices", "AWS Cloud", "Docker & Kubernetes"],
-    interests: ["Open Source", "Problem Solving", "Tech Innovation"],
-    funFact: "I enjoy debugging more than coding itself! 🐛✨",
-    lifePhilosophy: "Learning through building real projects 🏗️"
-};
-```
+I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in creating robust web applications using modern technologies. With expertise in both frontend and backend development, I love turning complex problems into simple, beautiful solutions.
+
+**🎯 What I Do:**
+- Build scalable web applications with **Java Spring Boot** and **React.js**
+- Design and develop RESTful APIs and microservices
+- Create responsive, user-friendly interfaces with modern frameworks
+- Contribute to open-source projects and tech communities
+
+**🌱 Currently Learning:**
+- Microservices Architecture & Design Patterns
+- AWS Cloud Services & DevOps practices
+- Docker, Kubernetes & Container Orchestration
+
+**🎮 Fun Facts:**
+- I enjoy debugging more than coding itself! 🐛✨
+- I believe in learning through building real projects 🏗️
+- Always eager to explore new technologies and frameworks
 
 <div align="center">
   
@@ -193,7 +196,7 @@ const shivprasad = {
 |:-------------:|:-----------------:|:----------------:|:------------:|
 | E-Commerce Platform | Java, Spring Boot, React | Full-stack, Payment Gateway, Admin Panel | [Demo](https://github.com/ShivMane) • [Code](https://github.com/ShivMane) |
 | Task Management System | Next.js, Node.js, MongoDB | Real-time updates, Team collaboration | [Demo](https://github.com/ShivMane) • [Code](https://github.com/ShivMane) |
-| ML Price Predictor | Python, TensorFlow, Streamlit | Machine Learning, Data Visualization | [Demo](https://github.com/ShivMane) • [Code](https://github.com/ShivMane) |
+| ML Disease Predictor | Python, TensorFlow, Streamlit | Machine Learning, Data Visualization | [Demo](https://github.com/ShivMane) • [Code](https://github.com/ShivMane) |
 
 </div>
 
