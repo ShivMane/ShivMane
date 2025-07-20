@@ -1,24 +1,143 @@
-# 💫 About Me:
-### 👋 Hi there! I'm Shivprasad Mane<br><br>🚀 I’m currently working on building full-stack web applications using Java, Spring Boot, and React.js.  <br>👯 I’m looking to collaborate on open-source projects and real-world applications in web development and machine learning.  <br>🤝 I’m looking for help with building scalable backend systems and deploying full-stack apps to the cloud.  <br>🌱 I’m currently learning Java, Spring Boot, JavaScript, React.js, Next.js, and Node.js.  <br>💬 Ask me about Java, Spring Boot, Data Structures & Algorithms, React.js, and JavaScript.  <br>⚡ Fun fact: I love learning new tech by building real projects — and I enjoy debugging more than coding itself!<br>
+👋 Hi, I'm Shivprasad Mane
+<div align="center">
+Show Image
 
+</div> <div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivprasad-mane-8ab052287) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@cshivprasah1fv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shiv_mane14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivprasadmane190@gmail.com) 
+</div>
+🚀 About Me
+javascript
+const shivprasad = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    currentFocus: ["Spring Boot", "React.js", "System Design"],
+    learning: ["Microservices", "AWS Cloud", "Docker & Kubernetes"],
+    interests: ["Open Source", "Problem Solving", "Tech Innovation"],
+    funFact: "I enjoy debugging more than coding itself! 🐛✨",
+    lifePhilosophy: "Learning through building real projects 🏗️"
+};
+<div align="center">
+🎯 Current Goals
+💻 Working On	🤝 Open To	🌱 Learning
+Full-stack applications with Java & React	Collaborate on open-source projects	Cloud deployment & scaling
+Building scalable backend systems	Real-world web development projects	Advanced Spring Boot patterns
+Modern UI/UX with React & Next.js	Contributing to tech communities	DevOps & CI/CD pipelines
+</div>
+🛠️ Technology Arsenal
+<div align="center">
+🎨 Frontend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivMane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShivMane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivMane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+⚙️ Backend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🗄️ Databases & Storage
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShivMane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+☁️ Cloud & DevOps
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
----
-[![](https://visitcount.itsvg.in/api?id=ShivMane&icon=0&color=0)](https://visitcount.itsvg.in)
+🤖 AI/ML & Data Science
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Tools & Others
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivMane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivMane&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=ShivMane&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivMane&theme=tokyo-night&hide_border=true&area=true" /> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ShivMane&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
+📈 Contribution Stats
+<div align="center">
+📅 This Year's Contributions
+Show Image
+
+🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShivMane&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" /> </div>
+💡 Featured Projects
+<div align="center">
+🚀 Project	🛠️ Tech Stack	⭐ Highlights	🔗 Links
+E-Commerce Platform	Java, Spring Boot, React	Full-stack, Payment Gateway, Admin Panel	Demo • Code
+Task Management System	Next.js, Node.js, MongoDB	Real-time updates, Team collaboration	Demo • Code
+ML Price Predictor	Python, TensorFlow, Streamlit	Machine Learning, Data Visualization	Demo • Code
+</div>
+💻 Coding Activity
+<div align="center"> <!--START_SECTION:waka-->
+text
+Java           12 hrs 30 mins  ███████████▒░░░░░░░░░░░░░   45.2%
+JavaScript     8 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   29.8%
+TypeScript     4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.7%
+CSS            1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░    6.3%
+Other          52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░    3.0%
+<!--END_SECTION:waka--> </div>
+🎯 Skills Matrix
+<div align="center">
+Category	Technologies	Proficiency
+Frontend	React, Next.js, TypeScript	████████████████████ 95%
+Backend	Java, Spring Boot, Node.js	███████████████████▓ 92%
+Database	MySQL, MongoDB, PostgreSQL	██████████████████▓░ 88%
+Cloud	AWS, Docker, CI/CD	███████████████▓░░░░ 75%
+Mobile	React Native	████████████▓░░░░░░░ 60%
+</div>
+🌟 Random Dev Quote
+<div align="center">
+Show Image
+
+</div>
+📫 Let's Connect!
+<div align="center">
+💬 Ask me about: Java, Spring Boot, React.js, System Design, DSA, Open Source
+
+🤝 Looking to collaborate on: Full-stack projects, Open source contributions, Innovative web solutions
+
+📧 Reach out for: Project collaborations, Tech discussions, Mentoring opportunities
+
+<br>
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+Show Image
+
+</div>
+<div align="center"> <i>⭐️ From [ShivMane](https://github.com/ShivMane) with ❤️</i> </div>
