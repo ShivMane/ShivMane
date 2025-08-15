@@ -1,0 +1,11 @@
+name: GitHub Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
